@@ -37,4 +37,3 @@ content = getCYBNews('http://www.cyzone.cn/category/8/')
 content = content + '来自创业邦'
 print(content)
 
-
